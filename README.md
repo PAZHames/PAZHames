@@ -7,6 +7,14 @@
 
 - 📫 How to reach me **phoebehames292@gmail.com**
 
+<p align="left">Passionate and inventive software engineer with a unique blend of technical proficiency and creative flair, honed through experience in the fields of education, cultural heritage and the arts. Proven ability in problem-solving and effective communication. Hands-on expertise in JavaScript, Node.js, Typescript, HTML, CSS, SQL and Python, complemented by intensive training on the Founders and Coders Software Foundation programme. </p>
+
+<h3 align="left">How I got into coding:</h3>
+<p align="left">A few years ago, I undertook a part-time Masters in the Reception of the Classical World, taking modules in Exhibiting Classical Antiquities and Digitising Cultural Heritage. A unifying factor across my work was accessibility and how digital solutions could be used to facilitate this. We used programs such as Blender alongside exploring online platforms based around crowd-sourcing and community mapping. While I loved the creativity and real-world value of the projects I was designing, I was blown away by the options open to those who could code. I came to view it as an incredible tool, with the capacity to make real change. 
+
+As a result, I started teaching myself to code. I found flow like I hadn’t experienced in years. The logical structure of coding resonated remarkably with the classical languages I knew, helping me grasp complex programming concepts more easily and allowing a much smoother transition into the field. I get a huge sense of satisfaction from the blend of constant learning and building products with real-world value and I wholeheartedly embrace and love the learn-as-you-build mentality. 
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/phoebe_hames" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="phoebe_hames" height="30" width="40" /></a>
