@@ -12,7 +12,7 @@
 <h3 align="left">My journey into coding:</h3>
 <p align="left">A few years ago, I undertook a part-time Masters in the Reception of the Classical World, taking modules in Exhibiting Classical Antiquities and Digitising Cultural Heritage. A unifying factor across my work was accessibility and how digital solutions could be used to facilitate this. We used programs such as Blender alongside exploring online platforms based around crowd-sourcing and community mapping. While I loved the creativity and real-world value of the projects I was designing, I was blown away by the options open to those who could code. I came to view it as an incredible tool, with the capacity to make real change. 
 
-As a result, I started teaching myself to code. I found flow like I hadn’t experienced in years. The logical structure of coding resonated remarkably with the classical languages I knew, helping me grasp complex programming concepts more easily and allowing a much smoother transition into the field. I get a huge sense of satisfaction from the blend of constant learning and building products with real-world value and I wholeheartedly embrace and love the learn-as-you-build mentality. 
+As a result, I started teaching myself to code. I found flow like I hadn’t experienced in years. The logical structure of coding resonated remarkably with the classical languages I knew, helping me grasp complex programming concepts more easily. I get a huge sense of satisfaction from the blend of constant learning and building products with real-world value and I wholeheartedly embrace and love the learn-as-you-build mentality. 
 </p>
 
 <h3 align="left">Connect with me:</h3>
