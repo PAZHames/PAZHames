@@ -3,7 +3,9 @@
 <h3 align="center">A Software Engineer from London with past-lives as an actor and educator</h3>
 <h4 align="center">😀 Pronouns: she/her</h4>
 
-- 🔭 I’m currently working on [React To Do](https://github.com/PAZHames/react-to-do-list)
+- 🤝 I'm currently collaborating on [[Who Cares](https://github.com/PAZHames/WhoCares.git)]
+
+- 🔭 I’m currently working on [[Next.js Help-Desk App](https://github.com/PAZHames/next-app-1.git)]
 
 - 📫 How to reach me **phoebehames292@gmail.com**
 
